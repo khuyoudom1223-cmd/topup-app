@@ -1,0 +1,9 @@
+.order-status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.status-icon {
+  font-size: 0.8rem;
+}
