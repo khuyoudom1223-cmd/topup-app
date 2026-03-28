@@ -61,7 +61,7 @@ export default function LoginPage() {
             onClick={() => setLoginType('user')}
             type="button"
           >
-            👤 User Login
+            👤 Manager Login
           </button>
           <button 
             className={`toggle-btn ${loginType === 'admin' ? 'active' : ''}`}
